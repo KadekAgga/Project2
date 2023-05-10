@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "348385886863",
+    "firebase_url": "https://myproject-808aa-default-rtdb.firebaseio.com",
+    "project_id": "myproject-808aa",
+    "storage_bucket": "myproject-808aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348385886863:android:ed1bc55c463a50af3526fa",
+        "android_client_info": {
+          "package_name": "com.example.smartkartapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348385886863-08mjpu7uu0k4bch4ja8k6dqu6n07dh8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartkartapps",
+            "certificate_hash": "54b38d60112883fb2c99b951054da0a10f2542c0"
+          }
+        },
+        {
+          "client_id": "348385886863-ghkf9ite2ntd8lqid59ddcaijfuvge0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbmUemnxMejYaoWS8aDb2TJrmjCY93vgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348385886863-ghkf9ite2ntd8lqid59ddcaijfuvge0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
